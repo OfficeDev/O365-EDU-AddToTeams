@@ -14,7 +14,7 @@ var constant = {
     // Microsoft Graph version
     graphVersion: "beta",
     // Edu Api version
-    eduApiVersion: "testeduapi",
+    eduApiVersion: "beta",
     //AAD instance URL
     AADInstance: "https://login.microsoftonline.com/"
 }
