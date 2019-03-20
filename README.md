@@ -1,3 +1,13 @@
+---
+topic: sample
+products:
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  createdDate: 11/9/2017 9:05:22 PM
+---
 # Add to Teams Code Sample
 
 In this sample we show you how to add announcements & assignments via the Graph API. 
